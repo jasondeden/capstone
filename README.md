@@ -10,6 +10,6 @@ Link to final Capstone presentation:
 https://docs.google.com/presentation/d/19KvfGlGj_uRmO52i1qd3xpPqDdoGsweeJI2Qgx03XBg/
 
 
-See the 100 epoch-trained model in action: 
+See the (now functional!) 100 epoch-trained model in action: 
 
 https://huggingface.co/jasoneden/BLOOM-560-QA-CDC_Covid19-100epochs 
